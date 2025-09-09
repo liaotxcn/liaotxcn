@@ -10,5 +10,7 @@
 ![](https://img.shields.io/badge/Architecture-Microservices-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-Docker/K8s/Git-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DataStructures-Algorithms-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+
 
 
